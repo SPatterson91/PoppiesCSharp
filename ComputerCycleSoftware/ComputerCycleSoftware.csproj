@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GetTSS.cs" />
+    <Compile Include="Githubclass1.cs" />
     <Compile Include="MovingAverageCalculator.cs" />
     <Compile Include="PowerCalculation.cs" />
     <Compile Include="ConvertUnits.cs" />
