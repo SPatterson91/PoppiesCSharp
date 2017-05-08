@@ -675,7 +675,7 @@ namespace ComputerCycleSoftware
             GraphPane myPane = zgc.GraphPane;
 
             // Set the GraphPane title
-            myPane.Title.Text = "Cycling Graph";
+            myPane.Title.Text = "This is the cycling graph";
             myPane.Title.FontSpec.IsItalic = true;
             myPane.Title.FontSpec.Size = 24f;
             myPane.Title.FontSpec.Family = "Times New Roman";
