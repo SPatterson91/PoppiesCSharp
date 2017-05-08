@@ -10,7 +10,7 @@ namespace ComputerCycleSoftware
     {
 
 
-        public double CalculateAverage(double sum, double count)//calulate the average
+        public double CalculateAverage(double sum, double count)//calculate the average
         {
             double sum1 = sum;
             double count1 = count;
